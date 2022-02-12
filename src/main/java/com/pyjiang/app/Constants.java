@@ -5,7 +5,7 @@ import java.util.Set;
 
 public class Constants {
   // Basic parameters
-  public static final int NUMBER_COUNT = 4;
+  public static final int OPERAND_COUNT = 4; // Currently, you can't change that
   public static final int MIN_NUMBER = 1;
   public static final int MAX_NUMBER = 10;
 
